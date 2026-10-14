@@ -142,6 +142,7 @@ def main():
     os.makedirs("docs", exist_ok=True)
     plain = "\n".join(result) + "\n"
     open("docs/sub.txt", "w", encoding="utf-8").write(plain)
+    open("subscription.txt", "w", encoding="utf-8").write(plain)
     open("docs/sub_base64.txt", "w", encoding="utf-8").write(base64.b64encode(plain.encode()).decode())
     print(f"own configs: {len(own)}, total lines: {len(result)}")
 
