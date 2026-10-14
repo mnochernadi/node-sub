@@ -1,5 +1,2 @@
-# Only the configs from these lists are used.
+# Only the configs from this list are used.
 https://raw.githubusercontent.com/papa8274/sub-mirror/main/subscription.txt
-https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/all/configs.txt
-https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt
-https://raw.githubusercontent.com/Danialsamadi/v2go/main/AllConfigsSub.txt
