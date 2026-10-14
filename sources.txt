@@ -1,1 +1,2 @@
+# Only IP addresses are read from these lists. Their configs are never used.
 https://raw.githubusercontent.com/papa8274/sub-mirror/main/subscription.txt
