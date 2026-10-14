@@ -1,2 +1,2 @@
-# Only IP addresses are read from these lists. Their configs are never used.
+# Only the configs from these lists are used. IP-only sources are used for Cloudflare clean IPs.
 https://raw.githubusercontent.com/papa8274/sub-mirror/main/subscription.txt
